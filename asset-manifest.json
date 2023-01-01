@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vishalyadav247/calculator.git/static/css/main.a883ff87.css",
+    "main.js": "/vishalyadav247/calculator.git/static/js/main.b2ed44c7.js",
+    "static/js/787.1e2b66a9.chunk.js": "/vishalyadav247/calculator.git/static/js/787.1e2b66a9.chunk.js",
+    "index.html": "/vishalyadav247/calculator.git/index.html",
+    "main.a883ff87.css.map": "/vishalyadav247/calculator.git/static/css/main.a883ff87.css.map",
+    "main.b2ed44c7.js.map": "/vishalyadav247/calculator.git/static/js/main.b2ed44c7.js.map",
+    "787.1e2b66a9.chunk.js.map": "/vishalyadav247/calculator.git/static/js/787.1e2b66a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a883ff87.css",
+    "static/js/main.b2ed44c7.js"
+  ]
+}
